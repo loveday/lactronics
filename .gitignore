@@ -2,3 +2,10 @@
 db/*.sqlite3
 log/*.log
 tmp/
+public/images/ads/*
+config/database.yml
+gemfile.lock
+.idea/*
+config/development.sphinx.conf
+config.ru
+gemfile.lock
